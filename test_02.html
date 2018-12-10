@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EChartjs</title>
+    <script src="E:\Idea\html5\web\package\js\jquery-3.1.1.js"></script>
+    <script src="F:\EChartjs\node_modules\echarts\dist\echarts.js"></script>
+</head>
+<body>
+<div id="main" style="width:800px;height: 500px"></div>
+<!--<button id ="button1">点击</button>-->
+<script>
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('main'));
+
+    // 指定图表的配置项和数据
+    var option = {
+        title: {
+            text: 'ECharts 入门示例',
+            backgroundColor: "rgba(128,255,128,0.8)",
+            borderColor: "rgba(0,0,0,1.0)",
+            borderWidth: 2,
+            shadowBlur: 10
+//            shadowColor:"rgba(0,0,0,1.0)",
+//            shadowOffsetX:10,
+//            shadowOffsetY:10
+        },
+        tooltip: {
+            trigger: 'axis',
+//            formatter:function (params) {
+//                return params[0].name;
+//            },
+            axisPointer:{
+                type:'cross',
+                lineStyle:{
+                    type:'dashed',
+                    width:2,
+                    color:'#999'
+                }
+            }
+        },
+        toolbox:{
+            feature:{
+                dataView:{},
+                magicType: {
+                    type: ['line', 'bar']
+                },
+                restore:{}
+            }
+        },
+        legend: {
+            data: ['销量']
+        },
+        xAxis: {
+            boundaryGap: false,
+            data: ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "袜子"]
+        },
+        yAxis: {
+            type: 'value'
+        },
+        series: [{
+            name: '销量',
+            type: 'line',
+            //数据在图标中显示的图形
+//            symbol:'rect',
+            //图形大小
+//            symbolSize:10,
+            //是否显示图形，为false时，只有hover时显示symbol
+//            showSymbol:false,
+            //hover时动画效果
+//            hoverAnimation: false,
+            //不清楚
+//            legendHoverLink:false,
+            //设置成阶梯线图
+//            step:'middle',
+            //在图形处显示文本或数据
+            label: {
+//                emphasis:{
+//                    show:true,
+//                    formatter:'{b}:{c}'
+//              }
+                normal: {
+                    show: true,
+                    formatter:'{b}:{c}'
+                }
+            },
+            itemStyle: {
+                normal: {
+//                    color:"rgba(0,0,0,1.0)",
+                    borderColor: 'rgba(255,0,255,0.8)',
+                    borderWidth: 1,
+                    shadowColor: "rgba(0,255,255,0.8)",
+                    shadowBlur: 10
+                },
+//                emphasis:{
+//
+//                }
+            },
+            smooth: true,
+            smoothMonotone: "x",
+            data: [5, 20, 36, 10, 10, 20],
+            markLine: {
+                silent: true,
+                data: [{
+                    name: '平均线',
+                    // 支持 'average', 'min', 'max'
+                    type: 'average'
+                },
+                    {
+                        name: 'Y 轴值为 100 的水平线',
+                        yAxis: 25
+                    },
+//                    [
+//                        {
+//                            // 起点和终点的项会共用一个 name
+//                            name: '最小值到最大值',
+//                            type: 'min'
+//                        },
+//                        {
+//                            type: 'max'
+//                        }
+//                    ]
+                ]
+            }
+        }]
+    };
+    myChart.setOption(option);
+    console.log(myChart.getDom());
+    console.log(myChart.getOption());
+    console.log(myChart.getModel());
+//    console.log(myChart.action);
+//    console.log(myChart.dispatchAction);
+
+    //    myChart.showLoading();
+    //    // 使用刚指定的配置项和数据显示图表。
+    //    setTimeout(function () {
+    //        myChart.hideLoading();
+    //        myChart.setOption(option)
+    //    },2000);
+
+    document.querySelector("#main").addEventListener("click",function (e) {
+        alert(window.location)
+        window.location.href = "test_01.html"+"?name=xingjian&age=18";
+    });
+</script>
+</body>
+</html>

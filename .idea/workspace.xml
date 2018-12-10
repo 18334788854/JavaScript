@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a1a9bae-43f8-4b5a-9aa5-6386d44c7049" name="Default" comment="" />
+    <ignored path="JavaScript.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="996509752">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="30" />
+          <entry key="project.open.time.101" value="1" />
+          <entry key="project.open.time.106" value="1" />
+          <entry key="project.open.time.119" value="1" />
+          <entry key="project.open.time.121" value="1" />
+          <entry key="project.open.time.123" value="1" />
+          <entry key="project.open.time.126" value="1" />
+          <entry key="project.open.time.131" value="1" />
+          <entry key="project.open.time.141" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="77" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="babelrc" value="1" />
+          <entry key="eslintrc" value="1" />
+          <entry key="html" value="4" />
+          <entry key="js" value="77" />
+          <entry key="json" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="112" />
+          <entry key="JSON" value="83" />
+          <entry key="JavaScript" value="12497" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="babelrc" value="43" />
+          <entry key="eslintrc" value="27" />
+          <entry key="html" value="112" />
+          <entry key="js" value="12497" />
+          <entry key="json" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaScript" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/north_university_of_China/ssUse/letUse.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forEach</find>
+      <find>forEachOf</find>
+      <find>version</find>
+      <find>.on</find>
+      <find>executable</find>
+      <find>parse</find>
+      <find>executables</find>
+      <find>each</find>
+      <find>foreachof</find>
+      <find>eachOfArrayLike</find>
+      <find>fetch</find>
+      <find>maplimit</find>
+      <find>main</find>
+      <find>isPlainObject</find>
+      <find>isEmpty</find>
+      <find>init</find>
+      <find>ajax</find>
+      <find>get</find>
+      <find>buildSchema</find>
+      <find>Source</find>
+      <find>builds</find>
+      <find>buildschema</find>
+      <find>expect</find>
+      <find>instanceof</find>
+      <find>is a</find>
+      <find>events</find>
+      <find>inherits</find>
+      <find>parseUrl</find>
+      <find>getDefaultFlags</find>
+      <find>EventEmitter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/north_university_of_China/proxyUse/proxyFunc.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/proxyUse/defineProperty.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/proxyUse/getOwnPropertyDescriptor.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/proxyUse/ownKeys1.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/ReflectUse/get.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/ReflectUse/set.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/ReflectUse/text.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/ReflectUse/observable.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/promiseUse/promise1.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/promiseUse/promiseImage.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/promiseUse/promiseAjax.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/promiseUse/promiseAll.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/promiseUse/thenable.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/promiseUse/generatorAndPromise.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/iteratorUse/RangeIterator.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/iteratorUse/iteratorAndZhizhen.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/iteratorUse/iteratorAndGenerator.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/iteratorUse/iteratorAndArray.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/generatorUse/generatorAndNext.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/generatorUse/generatorAndWrapper.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/generatorUse/generatorAndForOf.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/generatorUse/generatorAndTree.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/regExpUse/regExpY.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/generatorUse/thunkify.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/asyncUse/asyncText1.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/asyncUse/asyncText2.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/asyncUse/asyncAndGenerator.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/classUse/classAndPrototype.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/classUse/mixinClass.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/.babelrc" />
+        <option value="$PROJECT_DIR$/north_university_of_China/package.json" />
+        <option value="$PROJECT_DIR$/north_university_of_China/webpack.config.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/decoratorUse/webpack.config.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/decoratorUse/mixins.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/decoratorUse/decoratorText2.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/decoratorUse/dec.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/decoratorUse/decBundle.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/decoratorUse/decoratorText1.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/decoratorUse/decoratorText1Bundle.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/decoratorUse/decoratorText2Bundle.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/moduleUse.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/moduleUse/es6moduel.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/moduleUse/profile.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/moduleUse/test1.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/moduleUse/test.html" />
+        <option value="$PROJECT_DIR$/north_university_of_China/eslintUse/index.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/.eslintrc" />
+        <option value="$PROJECT_DIR$/north_university_of_China/ssUse/tagString.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/ssUse/fibs.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/ssUse/let.js" />
+        <option value="$PROJECT_DIR$/north_university_of_China/ssUse/letUse.js" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="JavaScript/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="C:/Program Files/nodejs/node" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/NeteaseCloudWebApp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/decorator/node_modules" />
+    <handled-path value="$PROJECT_DIR$/dianzan/node_modules" />
+    <handled-path value="$PROJECT_DIR$/h5i18n/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa-vue/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa/koa/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/cookie/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/ejs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/jsonp-use-middleware/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/jsonp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/mysql/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/project/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/request/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/session/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/start-quick/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/static-server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/static-use-middleware/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/upload-async/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2-note/demo/upload/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/koa_mvc/node_modules" />
+    <handled-path value="$PROJECT_DIR$/mocha/node_modules" />
+    <handled-path value="$PROJECT_DIR$/mysql/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/north_university_of_China/node_modules" />
+    <handled-path value="$PROJECT_DIR$/polished/node_modules" />
+    <handled-path value="$PROJECT_DIR$/ramda/node_modules" />
+    <handled-path value="$PROJECT_DIR$/redis/node_modules" />
+    <handled-path value="$PROJECT_DIR$/vue-weixin/node_modules" />
+    <handled-path value="$PROJECT_DIR$/vue/hello-vue/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/JianShu/Gulp/Gulp_Demo/package.json" />
+      <path value="$PROJECT_DIR$/JianShu/Gulp/Gulp_Niangao/package.json" />
+      <path value="$PROJECT_DIR$/NeteaseCloudWebApp/package.json" />
+      <path value="$PROJECT_DIR$/colors.js/package.json" />
+      <path value="$PROJECT_DIR$/commander.js/package.json" />
+      <path value="$PROJECT_DIR$/decorator/package.json" />
+      <path value="$PROJECT_DIR$/dianzan/package.json" />
+      <path value="$PROJECT_DIR$/h5i18n/package.json" />
+      <path value="$PROJECT_DIR$/koa-vue/package.json" />
+      <path value="$PROJECT_DIR$/koa/koa/package.json" />
+      <path value="$PROJECT_DIR$/koa/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/cookie/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/ejs/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/jsonp-use-middleware/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/jsonp/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/mysql/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/project/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/request/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/route-simple/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/route-use-middleware/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/session/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/start-async/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/start-quick/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/static-server/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/static-use-middleware/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/test-unit/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/upload-async/package.json" />
+      <path value="$PROJECT_DIR$/koa2-note/demo/upload/package.json" />
+      <path value="$PROJECT_DIR$/koa2/package.json" />
+      <path value="$PROJECT_DIR$/koa_mvc/package.json" />
+      <path value="$PROJECT_DIR$/mocha/package.json" />
+      <path value="$PROJECT_DIR$/mysql/package.json" />
+      <path value="$PROJECT_DIR$/north_university_of_China/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/polished/package.json" />
+      <path value="$PROJECT_DIR$/praise-by-koa/package.json" />
+      <path value="$PROJECT_DIR$/ramda/package.json" />
+      <path value="$PROJECT_DIR$/redis/package.json" />
+      <path value="$PROJECT_DIR$/three.js/package.json" />
+      <path value="$PROJECT_DIR$/vue-weixin/package.json" />
+      <path value="$PROJECT_DIR$/vue/hello-vue/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1555" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>InfiniteLoopJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="disabled" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/JavaScript/node_modules/ramda/src/partial.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="ejs.close.delimiter" value="%&gt;" />
+    <property name="ejs.open.delimiter" value="&lt;%" />
+    <property name="js-jscs-nodeInterpreter" value="F:\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="F:/nodeInPractice" />
+    <property name="nodejs_interpreter_path" value="F:/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaScript\north_university_of_China" />
+      <recent name="F:\JavaScript\dianzan" />
+      <recent name="F:\JavaScript\dianzan\static\js" />
+      <recent name="F:\JavaScript\decorator" />
+      <recent name="F:\JavaScript\koa2-note\demo\static-use-middleware\static\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JavaScript\north_university_of_China\decoratorUse" />
+      <recent name="F:\JavaScript\north_university_of_China\proxyUse" />
+      <recent name="F:\JavaScript\test\debounce" />
+      <recent name="F:\JavaScript\dianzan\static\img" />
+      <recent name="F:\JavaScript\dianzan\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.letUse.js">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaScript" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/north_university_of_China/moduleUse/test.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNew.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="TestNew.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="classes.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="classes.js" working-dir="$PROJECT_DIR$/xingjian_typescript">
+      <method v="2" />
+    </configuration>
+    <configuration name="es6moduel.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="es6moduel.js" working-dir="$PROJECT_DIR$/north_university_of_China/moduleUse">
+      <method v="2" />
+    </configuration>
+    <configuration name="fibs.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fibs.js" working-dir="$PROJECT_DIR$/north_university_of_China/ssUse">
+      <method v="2" />
+    </configuration>
+    <configuration name="get.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="get.js" working-dir="$PROJECT_DIR$/north_university_of_China/proxyUse">
+      <method v="2" />
+    </configuration>
+    <configuration name="letUse.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="letUse.js" working-dir="$PROJECT_DIR$/north_university_of_China/ssUse">
+      <method v="2" />
+    </configuration>
+    <configuration name="tagString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="tagString.js" working-dir="$PROJECT_DIR$/north_university_of_China/ssUse">
+      <method v="2" />
+    </configuration>
+    <configuration default="false" name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.47" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:9998/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JavaScript">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JavaScript" />
+        <option name="HTTP_PORT" value="9998" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59281" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JavaScript" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.TestNew.js" />
+      <item itemvalue="Node.js.classes.js" />
+      <item itemvalue="Node.js.Unnamed" />
+      <item itemvalue="Node.js.get.js" />
+      <item itemvalue="Node.js.es6moduel.js" />
+      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="Node.js.tagString.js" />
+      <item itemvalue="Node.js.fibs.js" />
+      <item itemvalue="Node.js.letUse.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.letUse.js" />
+        <item itemvalue="Node.js.fibs.js" />
+        <item itemvalue="Node.js.tagString.js" />
+        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="Node.js.es6moduel.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a1a9bae-43f8-4b5a-9aa5-6386d44c7049" name="Default" comment="" />
+      <created>1490684837468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490684837468</updated>
+      <workItem from="1490684838856" duration="3235000" />
+      <workItem from="1490751396700" duration="8352000" />
+      <workItem from="1490832011293" duration="9860000" />
+      <workItem from="1490924237046" duration="27000" />
+      <workItem from="1490924581219" duration="6250000" />
+      <workItem from="1491011016818" duration="2050000" />
+      <workItem from="1491017220159" duration="1673000" />
+      <workItem from="1491039108968" duration="843000" />
+      <workItem from="1491355976910" duration="12951000" />
+      <workItem from="1491442601814" duration="14254000" />
+      <workItem from="1491528123383" duration="13701000" />
+      <workItem from="1491788126309" duration="10936000" />
+      <workItem from="1491874471774" duration="12988000" />
+      <workItem from="1491961792607" duration="2964000" />
+      <workItem from="1491981576287" duration="4614000" />
+      <workItem from="1492047450472" duration="8756000" />
+      <workItem from="1492137056494" duration="812000" />
+      <workItem from="1492392631093" duration="12089000" />
+      <workItem from="1492565198624" duration="5600000" />
+      <workItem from="1492649244754" duration="3986000" />
+      <workItem from="1492736559582" duration="7518000" />
+      <workItem from="1492923950838" duration="22000" />
+      <workItem from="1492938202243" duration="291000" />
+      <workItem from="1492938987447" duration="2315000" />
+      <workItem from="1492999716901" duration="2206000" />
+      <workItem from="1493279913830" duration="29000" />
+      <workItem from="1493779867028" duration="5424000" />
+      <workItem from="1493867622895" duration="4233000" />
+      <workItem from="1493960813404" duration="2083000" />
+      <workItem from="1494035822078" duration="2306000" />
+      <workItem from="1494205496205" duration="4564000" />
+      <workItem from="1494238470367" duration="1811000" />
+      <workItem from="1494293737256" duration="6043000" />
+      <workItem from="1494381493454" duration="11634000" />
+      <workItem from="1494470661586" duration="3832000" />
+      <workItem from="1494550707087" duration="10078000" />
+      <workItem from="1494639091575" duration="1497000" />
+      <workItem from="1494810147383" duration="2465000" />
+      <workItem from="1494898495230" duration="671000" />
+      <workItem from="1494991633486" duration="681000" />
+      <workItem from="1495070626131" duration="1204000" />
+      <workItem from="1495157175414" duration="2334000" />
+      <workItem from="1495416042278" duration="3476000" />
+      <workItem from="1495502753860" duration="7122000" />
+      <workItem from="1495588020824" duration="9153000" />
+      <workItem from="1495675062090" duration="1036000" />
+      <workItem from="1495677919490" duration="6918000" />
+      <workItem from="1495762295211" duration="11429000" />
+      <workItem from="1495848066376" duration="13440000" />
+      <workItem from="1496193769356" duration="18151000" />
+      <workItem from="1496280088790" duration="10700000" />
+      <workItem from="1496366290056" duration="7699000" />
+      <workItem from="1496625671851" duration="6614000" />
+      <workItem from="1496712130751" duration="18313000" />
+      <workItem from="1496798653291" duration="10605000" />
+      <workItem from="1496885311407" duration="9900000" />
+      <workItem from="1496971466081" duration="10265000" />
+      <workItem from="1496999201495" duration="3043000" />
+      <workItem from="1497105008999" duration="15000" />
+      <workItem from="1497230183889" duration="4387000" />
+      <workItem from="1497317270112" duration="619000" />
+      <workItem from="1497405567004" duration="1198000" />
+      <workItem from="1497602986114" duration="798000" />
+      <workItem from="1497835043905" duration="103000" />
+      <workItem from="1498029604781" duration="1184000" />
+      <workItem from="1498095472526" duration="2554000" />
+      <workItem from="1503632071324" duration="1780000" />
+      <workItem from="1503645689421" duration="685000" />
+      <workItem from="1504159752692" duration="7948000" />
+      <workItem from="1504228473240" duration="4759000" />
+      <workItem from="1504252756768" duration="331000" />
+      <workItem from="1504253346713" duration="266000" />
+      <workItem from="1504254562749" duration="1318000" />
+      <workItem from="1504255923852" duration="4002000" />
+      <workItem from="1504488254690" duration="17048000" />
+      <workItem from="1504573959876" duration="7503000" />
+      <workItem from="1504582031166" duration="9638000" />
+      <workItem from="1504660929509" duration="19935000" />
+      <workItem from="1504747245549" duration="16830000" />
+      <workItem from="1504832905015" duration="10691000" />
+      <workItem from="1505094894531" duration="19959000" />
+      <workItem from="1505179120771" duration="16283000" />
+      <workItem from="1505265539179" duration="942000" />
+      <workItem from="1505700291313" duration="125000" />
+      <workItem from="1505718593148" duration="3224000" />
+      <workItem from="1505747077738" duration="1283000" />
+      <workItem from="1505783754236" duration="36000" />
+      <workItem from="1505889320779" duration="1387000" />
+      <workItem from="1505895872294" duration="761000" />
+      <workItem from="1505954611814" duration="11324000" />
+      <workItem from="1506043139546" duration="1105000" />
+      <workItem from="1506048443423" duration="11182000" />
+      <workItem from="1506258294966" duration="29000" />
+      <workItem from="1506308794325" duration="11263000" />
+      <workItem from="1506388453464" duration="15026000" />
+      <workItem from="1506436031986" duration="2390000" />
+      <workItem from="1506475259902" duration="13556000" />
+      <workItem from="1506516834310" duration="3142000" />
+      <workItem from="1506561810836" duration="669000" />
+      <workItem from="1506562497862" duration="15531000" />
+      <workItem from="1506647827160" duration="16336000" />
+      <workItem from="1506735891216" duration="5123000" />
+      <workItem from="1506754735944" duration="4252000" />
+      <workItem from="1507685837280" duration="6301000" />
+      <workItem from="1507771408875" duration="3224000" />
+      <workItem from="1507794638612" duration="4044000" />
+      <workItem from="1507858019200" duration="1195000" />
+      <workItem from="1508117939018" duration="1057000" />
+      <workItem from="1508134803054" duration="7743000" />
+      <workItem from="1508203424304" duration="5549000" />
+      <workItem from="1508290166105" duration="8043000" />
+      <workItem from="1508394253214" duration="2159000" />
+      <workItem from="1508494088060" duration="14000" />
+      <workItem from="1508917086247" duration="1270000" />
+      <workItem from="1509420227916" duration="9573000" />
+      <workItem from="1509499954002" duration="10787000" />
+      <workItem from="1509586033996" duration="13064000" />
+      <workItem from="1509672247827" duration="18490000" />
+      <workItem from="1509931193531" duration="9355000" />
+      <workItem from="1510017451188" duration="1297000" />
+      <workItem from="1510104230630" duration="11534000" />
+      <workItem from="1510190544430" duration="7897000" />
+      <workItem from="1510282185113" duration="2915000" />
+      <workItem from="1510535886907" duration="6864000" />
+      <workItem from="1510622325048" duration="8492000" />
+      <workItem from="1510708572203" duration="9628000" />
+      <workItem from="1510795575746" duration="8107000" />
+      <workItem from="1510881174545" duration="11164000" />
+      <workItem from="1510915556411" duration="4375000" />
+      <workItem from="1510921639296" duration="10984000" />
+      <workItem from="1510977132371" duration="9525000" />
+      <workItem from="1511018944511" duration="72000" />
+      <workItem from="1511068416468" duration="7141000" />
+      <workItem from="1511076875661" duration="27282000" />
+      <workItem from="1511140910975" duration="17595000" />
+      <workItem from="1511177928746" duration="4358000" />
+      <workItem from="1511227502738" duration="6016000" />
+      <workItem from="1511263674428" duration="5930000" />
+      <workItem from="1511275094532" duration="115000" />
+      <workItem from="1511313877349" duration="5000000" />
+      <workItem from="1511318952343" duration="7360000" />
+      <workItem from="1511384808291" duration="847000" />
+      <workItem from="1511486395679" duration="3629000" />
+      <workItem from="1511522962834" duration="718000" />
+      <workItem from="1511745635638" duration="6217000" />
+      <workItem from="1511832215960" duration="7044000" />
+      <workItem from="1511919605429" duration="2321000" />
+      <workItem from="1512005427466" duration="5190000" />
+      <workItem from="1512023117714" duration="3112000" />
+      <workItem from="1512090869929" duration="1090000" />
+      <workItem from="1512352134371" duration="2085000" />
+      <workItem from="1512439002002" duration="596000" />
+      <workItem from="1512468035109" duration="609000" />
+      <workItem from="1512554148263" duration="869000" />
+      <workItem from="1512615774767" duration="2644000" />
+      <workItem from="1512716156551" duration="93000" />
+      <workItem from="1512716290794" duration="682000" />
+      <workItem from="1512982649392" duration="1560000" />
+      <workItem from="1513145713479" duration="598000" />
+      <workItem from="1513215688062" duration="6384000" />
+      <workItem from="1513300983793" duration="7429000" />
+      <workItem from="1513430244440" duration="12461000" />
+      <workItem from="1513578581456" duration="5450000" />
+      <workItem from="1513647784076" duration="1450000" />
+      <workItem from="1513734227895" duration="13370000" />
+      <workItem from="1513818589336" duration="2011000" />
+      <workItem from="1513924796671" duration="1201000" />
+      <workItem from="1514183667955" duration="1719000" />
+      <workItem from="1514362587918" duration="3713000" />
+      <workItem from="1514425434036" duration="5562000" />
+      <workItem from="1514512092891" duration="829000" />
+      <workItem from="1514536704537" duration="2588000" />
+      <workItem from="1514855998421" duration="4479000" />
+      <workItem from="1514889496182" duration="1227000" />
+      <workItem from="1514943309486" duration="758000" />
+      <workItem from="1515028623751" duration="3422000" />
+      <workItem from="1515115622611" duration="1255000" />
+      <workItem from="1515234829629" duration="1195000" />
+      <workItem from="1515377790115" duration="2473000" />
+      <workItem from="1515460906931" duration="1618000" />
+      <workItem from="1515547556766" duration="1572000" />
+      <workItem from="1515633763710" duration="1797000" />
+      <workItem from="1515720008363" duration="1177000" />
+      <workItem from="1516587316707" duration="1809000" />
+      <workItem from="1517813430149" duration="5389000" />
+      <workItem from="1517822715373" duration="599000" />
+      <workItem from="1517881599822" duration="268000" />
+      <workItem from="1517881880513" duration="3416000" />
+      <workItem from="1517887429801" duration="766000" />
+      <workItem from="1517908664398" duration="344000" />
+      <workItem from="1517909023182" duration="121000" />
+      <workItem from="1517966786826" duration="605000" />
+      <workItem from="1517990018639" duration="7665000" />
+      <workItem from="1518054279508" duration="78000" />
+      <workItem from="1518428631024" duration="1225000" />
+      <workItem from="1518485938456" duration="749000" />
+      <workItem from="1519613704212" duration="2620000" />
+      <workItem from="1519806461234" duration="771000" />
+      <workItem from="1519872552754" duration="2578000" />
+      <workItem from="1519954871972" duration="598000" />
+      <workItem from="1520230912613" duration="758000" />
+      <workItem from="1520387479852" duration="6749000" />
+      <workItem from="1520577662768" duration="751000" />
+      <workItem from="1520817542071" duration="4641000" />
+      <workItem from="1520906134038" duration="1348000" />
+      <workItem from="1520990669156" duration="641000" />
+      <workItem from="1521451510647" duration="170000" />
+      <workItem from="1521452011846" duration="57000" />
+      <workItem from="1521767355418" duration="13000" />
+      <workItem from="1525655699593" duration="884000" />
+      <workItem from="1525657311687" duration="29000" />
+      <workItem from="1540890294751" duration="1296000" />
+      <workItem from="1540892555410" duration="688000" />
+      <workItem from="1540953014902" duration="597000" />
+      <workItem from="1540968192171" duration="3932000" />
+      <workItem from="1540972394539" duration="1138000" />
+      <workItem from="1540979616896" duration="1676000" />
+      <workItem from="1541036762739" duration="1784000" />
+      <workItem from="1541053468748" duration="3104000" />
+      <workItem from="1541064608552" duration="34000" />
+      <workItem from="1541064710860" duration="156000" />
+      <workItem from="1541068814089" duration="1084000" />
+      <workItem from="1541120570845" duration="4504000" />
+      <workItem from="1541140965506" duration="4116000" />
+      <workItem from="1541398766425" duration="6792000" />
+      <workItem from="1541469338084" duration="741000" />
+      <workItem from="1541494416026" duration="779000" />
+      <workItem from="1541557103290" duration="1515000" />
+      <workItem from="1541736898483" duration="332000" />
+      <workItem from="1541988331738" duration="5434000" />
+      <workItem from="1542006728240" duration="6219000" />
+      <workItem from="1542013638054" duration="1459000" />
+      <workItem from="1542018183570" duration="651000" />
+      <workItem from="1542085648497" duration="6657000" />
+      <workItem from="1542094970092" duration="3572000" />
+      <workItem from="1542175281785" duration="6819000" />
+      <workItem from="1542257317905" duration="4934000" />
+      <workItem from="1542265745836" duration="1627000" />
+      <workItem from="1542272925978" duration="317000" />
+      <workItem from="1542273784664" duration="301000" />
+      <workItem from="1542346265742" duration="4334000" />
+      <workItem from="1542351748801" duration="1778000" />
+      <workItem from="1542357376837" duration="307000" />
+      <workItem from="1542357729284" duration="324000" />
+      <workItem from="1542603294359" duration="1536000" />
+      <workItem from="1542605814810" duration="1884000" />
+      <workItem from="1542694737588" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1154833000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <layout>
+      <window_info active="true" id="Project" order="0" sideWeight="0.49853802" visible="true" weight="0.21003963" />
+      <window_info id="Structure" order="1" weight="0.24947146" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Palette&#9;" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.501462" side_tool="true" weight="0.24240422" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49583334" weight="0.3888889" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.27219874" side_tool="true" weight="0.9929495" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3299435" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32902467" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.72780126" weight="0.38011697" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Memory View" order="3" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/xingjian_typescript/greeter.js" />
+        <option value="$PROJECT_DIR$/xingjian_typescript/test.js" />
+        <option value="$PROJECT_DIR$/xingjian_typescript/type_checked.js" />
+        <option value="$PROJECT_DIR$/xingjian_typescript/test_function.js" />
+        <option value="$PROJECT_DIR$/xingjian_typescript/identity.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ramda" />
+      <path value="$PROJECT_DIR$/h5i18n" />
+      <path value="$PROJECT_DIR$/vue-weixin" />
+      <path value="$PROJECT_DIR$/koa/koa" />
+      <path value="$PROJECT_DIR$/yuidoc_example/pro-javascript-development" />
+      <path value="$PROJECT_DIR$/three.js" />
+      <path value="$PROJECT_DIR$/koa2-note" />
+      <path value="$PROJECT_DIR$/colors.js" />
+      <path value="$PROJECT_DIR$/commander.js" />
+      <path value="$PROJECT_DIR$/polished" />
+    </ignored-roots>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/proxyUse/ownKeys1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/ReflectUse/get.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/ReflectUse/set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/ReflectUse/text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/ReflectUse/observable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/promiseUse/promiseImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/promiseUse/promise1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/promiseUse/promiseAjax.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/promiseUse/promiseAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/promiseUse/thenable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/promiseUse/generatorAndPromise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/iteratorUse/RangeIterator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/iteratorUse/iteratorAndZhizhen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/iteratorUse/iteratorAndGenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/iteratorUse/iteratorAndArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/generatorUse/generatorAndNext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/generatorUse/generatorAndWrapper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/generatorUse/generatorAndForOf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/generatorUse/generatorAndTree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/regExpUse/regExpY.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/generatorUse/thunkify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/asyncUse/asyncText1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/asyncUse/asyncText2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/asyncUse/asyncAndGenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/classUse/classAndPrototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/classUse/mixinClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/bundle1.js" />
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/node_modules/co/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="101" column="29" selection-start-line="101" selection-start-column="29" selection-end-line="101" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/mixinsBundle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/mixins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/decBundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/dec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/decoratorText1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/decoratorText1Bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/decoratorText2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/decoratorUse/decoratorText2Bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/moduleUse.js" />
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/moduleUse/profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/moduleUse/es6moduel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/moduleUse/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/ssUse/tagString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/eslintUse/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/moduleUse/test1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/ssUse/fibs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="13" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/ssUse/let.js" />
+    <entry file="file://$PROJECT_DIR$/north_university_of_China/ssUse/letUse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaScript</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (JavaScript)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|JavaScript</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

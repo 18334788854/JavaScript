@@ -1,0 +1,40 @@
+{
+  "name": "dianzan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "node ./init/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-polyfill": "^6.22.0"
+  },
+  "dependencies": {
+    "pm2": "^2.8.0",
+    "async": "^2.6.0",
+    "babel-preset-es2015-node5": "^1.2.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "commander": "^2.12.1",
+    "currency.js": "^1.0.0",
+    "debug": "^3.1.0",
+    "jquery": "^3.2.1",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "3.2.0",
+    "koa-compose": "^4.0.0",
+    "koa-convert": "^1.2.0",
+    "koa-logger": "^3.1.0",
+    "koa-mysql": "^1.0.3",
+    "koa-mysql-session": "^0.0.2",
+    "koa-router": "7.0.0",
+    "koa-session": "^5.5.1",
+    "koa-session-minimal": "^3.0.4",
+    "koa-static": "^4.0.2",
+    "mysql": "^2.15.0",
+    "request": "^2.83.0",
+    "url": "^0.11.0"
+  }
+}

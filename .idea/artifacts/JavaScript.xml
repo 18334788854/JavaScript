@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="JavaScript">
+    <output-path>H:/apache-tomcat-7.0.47/apache-tomcat-7.0.47/webapps/JavaScript</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaScript/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaScript" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

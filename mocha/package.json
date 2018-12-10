@@ -1,0 +1,23 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "server": "node start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^1.1.1",
+    "koa": "2.0.0",
+    "koa-bodyparser": "3.2.0",
+    "koa-router": "7.0.0"
+  },
+  "devDependencies": {
+    "mocha": "3.0.2",
+    "mz": "^2.6.0",
+    "supertest": "3.0.0"
+  }
+}

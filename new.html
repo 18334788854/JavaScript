@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--<script src="test.js"></script>-->
+    <style>
+        input, button {
+            margin: 2px;
+        }
+    </style>
+    <script src="test.js"></script>
+</head>
+<body>
+
+    <form id="my-form" action="/user/12345">
+        <input type="text" name="name"/><br/>
+        <input name="password"/><br/>
+        <button type="submit">提交</button>
+    </form>
+    <script>
+        var formsMediator = new Mediator(),
+                loggingMediator = new Mediator();
+        (function (formsMediator) {
+            function ajaxPost(url, data, callback) {
+                var xhr = new XMLHttpRequest(),
+                        STATE_LOADED = 4,
+                        STATUS_OK = 200;
+                xhr.onreadystatechange = function () {
+                    if (xhr.readyState !== STATE_LOADED) {
+                        return;
+                    }
+                    if (xhr.status === STATUS_OK) {
+                        callback(xhr.responseText);
+                    }
+                };
+                xhr.open("POST", url);
+                xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                xhr.send(data);
+            }
+
+            formsMediator.subscribe("form-submit", function (url, formData) {
+                ajaxPost(url, formData, function (response) {
+                    formsMediator.publish("ajax-response", response);
+                })
+            })
+        }(formsMediator));
+        (function (formsMediator) {
+            var form = document.getElementById("my-form"),
+                    action = form.action,
+                    data = [],
+                    fields = form.getElementsByTagName("input"),
+                    index = 0,
+                    length = fields.length,
+                    field,
+                    thankYouMessage = document.createElement("p");
+
+            function onFormSubmit(e) {
+                e.preventDefault();
+                for (; index < length; index++) {
+                    field = fields[index];
+                    data.push(field.name + "=" + field.value);
+                }
+                console.log(data.join("&"));
+                formsMediator.publish("form-submit", action, data.join("&"));
+            }
+
+            form.addEventListener("submit", onFormSubmit, false);
+            formsMediator.subscribe("ajax-response", function (response) {
+                thankYouMessage.innerHTML = "Thank you for your form submission.<br>The server responsed with " + response;
+                form.parentNode.appendChild(thankYouMessage);
+            })
+        }(formsMediator));
+
+        (function (loggingMediator) {
+            var logs = [];
+            loggingMediator.subscribe("log", function (message) {
+                logs.push({
+                    message: message,
+                    date: new Date()
+                });
+            });
+            loggingMediator.subscribe("retrieve-log", function () {
+                loggingMediator.publish("log-retrieved", logs);
+            });
+        }(loggingMediator));
+
+        (function (loggingMediator) {
+            var button = document.createElement("button");
+            button.innerHTML = "Show logs";
+            button.addEventListener("click", function () {
+                loggingMediator.publish("retrieve-log");
+            }, false);
+            loggingMediator.subscribe("log-retrieved", function (logs) {
+                var index = 0,
+                        length = logs.length,
+                        ulTag = document.createElement("ul"),
+                        liTag = document.createElement("li"),
+                        listItem;
+                for (; index < length; index++) {
+                    listItem = liTag.cloneNode(false);
+                    listItem.innerHTML = logs[index].date.toUTCString() + ":" + logs[index].message;
+                    ulTag.appendChild(listItem);
+                }
+                document.body.appendChild(ulTag);
+            });
+            document.body.appendChild(button);
+    }(loggingMediator));
+
+    (function (formsMediator, loggingMediator) {
+        formsMediator.subscribe("form-submit", function (url) {
+            loggingMediator.publish("log", "Form submitted to " + url);
+        });
+        formsMediator.subscribe("ajax-response", function (response) {
+            loggingMediator.publish("log", "The server responsed to an ajax call with " + response);
+        })
+    }(formsMediator, loggingMediator))
+    //    var proxiedGet = myData.cookies.get;
+    //    myData.cookies.get = function () {
+    //        var value = proxiedGet.apply(this, arguments);
+    //        value = value.toUpperCase();
+    //        return value;
+    //    }
+    //
+    //
+    //    myData.cookies.set('name1', 'xingjian1');
+    //    myData.cookies.set('name2', 'xingjian3');
+    //    myData.cookies.set('name3', 'xingjian3');
+    //    console.log(document.cookie);
+    //    console.log(myData.cookies.get('name1'));
+    //    console.log(myData.cookies.get('name2'));
+
+    //    element = extendObj(element, loggingMixin);
+    //    Field.prototype = extendObj(Field.prototype, loggingMixin);
+    //    header = element.create('header');
+    //    textField = new Field('text', 'Enter the first line of your address');
+    //    emailField = new Field('email', 'Enter your email address');
+    //    document.body.appendChild(textField.getElement());
+    //    document.body.appendChild(emailField.getElement());
+    //    console.log(loggingMixin.readLog());
+
+    //    myProject.data.ajax.get('/user/12345', function (response) {
+    //        console.log(response);
+    //    });
+    //    myProject.data.ajax.post('/user/12345', "company=AKQ&name=Den dell", function (response) {
+    //        console.log(response);
+    //    });
+    //    http.makeRequest('get', 'user/12345', function (response) {
+    //        console.log(response);
+    //    });
+    //    http.makeRequest('POST', 'user/12345', function (response) {
+    //        console.log(response);
+    //    }, "company=AKQ&name=Den dell");
+</script>
+<!--输入：<input id="input"/>-->
+<!--<button>确定</button>-->
+<!--<script>-->
+<!--var input = document.getElementById('input');-->
+<!--var button = document.getElementsByTagName('button');-->
+<!--//    console.log(button);-->
+<!--button[0].onclick = function (e) {-->
+<!--e.preventDefault();-->
+<!--console.log(input.value);-->
+<!--eval(input.value);-->
+<!--}-->
+<!--</script>-->
+</body>
+</html>

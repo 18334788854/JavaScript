@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "sources": [
+    "../src/test.js"
+  ],
+  "names": [
+    "mixin",
+    "require",
+    "Test",
+    "console",
+    "log",
+    "isMixin"
+  ],
+  "mappings": ";;AAAA,IAAIA,QAAQC,QAAQ,cAAR,EAAwBD,KAApC;;IAGME,I,WADLF,MAAM,IAAN,C,gBACD,MAAME,IAAN,CAAU,E;;;AAIVC,QAAQC,GAAR,CAAYF,KAAKG,OAAjB",
+  "file": "test.js",
+  "sourcesContent": [
+    "var mixin = require(\"../decorator\").mixin;\r\n\r\n@mixin(true)\r\nclass Test{\r\n\r\n}\r\n\r\nconsole.log(Test.isMixin);"
+  ]
+}

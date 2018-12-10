@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .sudoku-container {
+            display: flex;
+            flex-wrap: wrap;
+            width: 238px;
+            margin-top: 10px;
+        }
+
+        .cell {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            width: 25px;
+            height: 25px;
+            border: 1px solid #aaa;
+            margin-right: -1px;
+            margin-bottom: -1px;
+        }
+
+        .cell:nth-child(3n) {
+            margin-right: 0;
+        }
+
+        .cell:nth-child(27n) {
+            margin-bottom: 0;
+        }
+
+        .cell-move {
+            transition: transform 1s;
+        }
+
+    </style>
+</head>
+<body>
+<div id="sudoku-demo" class="demo">
+    <button @click="shuffle">shuffle</button>
+    <transition-group name="cell" tag="div" class="sudoku-container">
+        <div v-for="cell in cells" :key="cell.id" class="cell">
+            {{cell.number}}
+        </div>
+    </transition-group>
+</div>
+<div id="app">
+
+</div>
+<script src="https://unpkg.com/vue@2.3.3/dist/vue.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.14.1/lodash.min.js"></script>
+<script>
+    //    import _ from 'lodash';
+    //    var Profile = Vue.extend({
+    //        template: "<div>{{name}}</div>",
+    //        data: function () {
+    //            return {
+    //                name: "xingjian",
+    //                arr: {}
+    //            }
+    //        }
+    //    });
+    //    var vm = new Profile().$mount("#sudoku-demo");
+    //    console.log(Profile["super"]);
+    //    vm.name = "yinpengmei";
+    //    console.log(`1、${vm.$el.textContent}`);
+    //    console.log(`3、${vm.$data.name}`);
+    //    //
+    //    vm.$nextTick(function () {
+    //        console.log(`2、${vm.$el.textContent}`);
+    //        console.log(`4、${vm.$data.name}`);
+    //    });
+    //    //
+    //    console.log(`5、${vm.$data.arr.age}`);
+    //    console.log(Vue.set(vm.arr, 'age', 22));
+    //    console.log(`6、${vm.$data.arr.age}`);
+    //    console.log(new Vue());
+        new Vue({
+            el: '#sudoku-demo',
+            data: {
+                cells: Array.apply(null, { length: 81 })
+                        .map(function (cur, index) {
+                            return {
+                                id: index,
+                                number: index % 9 + 1
+                            }
+                        })
+            },
+            methods: {
+                shuffle: function () {
+                    this.cells = _.shuffle(this.cells);
+                }
+            }
+        });
+    console.log(Vue.compile("<div>{{name}}</div>").render);
+
+</script>
+</body>
+</html>

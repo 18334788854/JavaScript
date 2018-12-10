@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>admin</title>
+    <style>
+        /* Border styles */
+        #table-4 thead, #table-4 tr {
+            border-top-width: 1px;
+            border-top-style: solid;
+            border-top-color: rgb(211, 202, 221);
+        }
+
+        #table-4 {
+            border-bottom-width: 1px;
+            border-bottom-style: solid;
+            border-bottom-color: rgb(211, 202, 221);
+        }
+
+        /* Padding and font style */
+        #table-4 td, #table-4 th {
+            padding: 5px 10px;
+            font-size: 12px;
+            font-family: Verdana;
+            color: rgb(95, 74, 121);
+        }
+
+        /* Alternating background colors */
+        #table-4 tr:nth-child(even) {
+            background: rgb(223, 216, 232)
+        }
+
+        #table-4 tr:nth-child(odd) {
+            background: #FFF
+        }
+    </style>
+</head>
+<body>
+<div>
+    <table id="table-4">
+        <thead>
+        <tr>
+            <th>作者openID</th>
+            <th>点赞总次数</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+</div>
+<div><h1>0</h1></div>
+<script src="js/jquery-3.1.1.js"></script>
+<script>
+    window.onload = function () {
+        $.getJSON("http://127.0.0.1:8080/getAll", function (data, status) {
+            console.log(data, data.length, Object.prototype, toString.call(data));
+            let sum = 0;
+            for (let i = 0; i < data.length; i++) {
+                sum += data[i].num
+            }
+            $("h1").html(sum);
+        })
+    }
+</script>
+</body>
+</html>

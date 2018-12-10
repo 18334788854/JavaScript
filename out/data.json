@@ -1,0 +1,76 @@
+{
+    "project": {},
+    "files": {
+        "Class.js": {
+            "name": "Class.js",
+            "modules": {},
+            "classes": {
+                "Accommodation": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {},
+    "classes": {
+        "Accommodation": {
+            "name": "Accommodation",
+            "shortname": "Accommodation",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "Class.js",
+            "line": 50,
+            "description": "一个用于定义各种类型住宅（accommodation）的“类”",
+            "is_constructor": 1
+        }
+    },
+    "elements": {},
+    "classitems": [
+        {
+            "file": "Class.js",
+            "line": 57,
+            "description": "表示住宅当前是否上锁",
+            "itemtype": "property",
+            "name": "isLocked",
+            "type": "Boolean",
+            "class": "Accommodation"
+        },
+        {
+            "file": "Class.js",
+            "line": 63,
+            "description": "表示住宅当前是否有警报系统——盗贼们注意了！",
+            "itemtype": "property",
+            "name": "isAlarmed",
+            "type": "Boolean",
+            "class": "Accommodation"
+        },
+        {
+            "file": "Class.js",
+            "line": 69,
+            "description": "上锁",
+            "itemtype": "method",
+            "name": "lock",
+            "class": "Accommodation"
+        },
+        {
+            "file": "Class.js",
+            "line": 77,
+            "description": "开锁",
+            "itemtype": "method",
+            "name": "unlock",
+            "class": "Accommodation"
+        },
+        {
+            "file": "Class.js",
+            "line": 85,
+            "description": "在创建该类的对象实例时该方法自动执行\n开锁",
+            "itemtype": "method",
+            "name": "initialize",
+            "class": "Accommodation"
+        }
+    ],
+    "warnings": []
+}

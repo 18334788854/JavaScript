@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <style>
+        div {
+            border: solid 1px black;
+            height: 800px;
+            width: calc(100% - 20px);
+        }
+
+        p {
+            height: 600px;
+            margin: 30px;
+            border: solid 1px rebeccapurple;
+        }
+
+        span.location1 {
+            font-size: larger;
+            margin-left: 50px;
+            float: left;
+        }
+
+        span.location2 {
+            margin-right: 50px;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <p></p>
+    <span class="location1">点赞<span id="number">0</span>次</span>
+    <span class="location2"><button id="btn"><img src="img/nav0.png"/></button></span>
+</div>
+<script src="js/jquery-3.1.1.js"></script>
+<script>
+    window.onload = function () {
+        $("#btn").removeAttr("disabled");
+        $.get("http://127.0.0.1:8080/getNum?b_openid=xingjian14", function (data, status) {
+            console.log(data, status);
+            $("#number").html(data);
+        });
+        $("#btn").click(function () {
+            $("#btn").attr("disabled", "disabled");
+            $.get("http://127.0.0.1:8080/auth?code=123123&b_openid=xingjian14", (data, status) => {
+                if (data === "error") {
+                    alert("每个作品个人只能点5次攒！");
+                } else {
+                    let number = Number($("#number").html());
+                    $("#number").html(++number);
+                    $("#btn").removeAttr("disabled");
+                }
+            })
+
+        });
+//        var btn = document.getElementById("btn");
+//        btn.onclick = function (e) {
+//            var xhq = new XMLHttpRequest();
+//            xhq.open("GET", "http://127.0.0.1:8080/getAccessToken", true);
+//            xhq.onreadystatechange = function () {
+//                if (xhq.readyState == 4) {
+//                    if (xhq.status == 200) {
+//                        console.log(xhq.responseText);
+//                    if (xhq.responseText) {
+//
+//                    } else {
+//
+//                    }
+//                    }else{
+//                        console.log(xhq.status);
+//                    }
+//                }
+//            };
+//            xhq.send(null);
+//        }
+
+    };
+</script>
+</body>
+</html>
